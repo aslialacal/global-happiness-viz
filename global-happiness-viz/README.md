@@ -28,17 +28,17 @@ You can view the full project report here:
  
 [Global_Happiness_Report.pdf](./report/Global_Happiness_Report.pdf)
 
+##  Personal Note
+
+This project represents a significant step in my growth as a data storyteller. It’s not perfect, but it’s honest, replicable, and mine.
+More to come. Thank you for reading 💙
 
 ##  How to Run
 
 To explore or rerun the analysis, install the required packages:
-
 ```bash
 pip install -r requirements.txt
 jupyter notebook
 
 
-## Personal Note
 
-This project represents a significant step in my growth as a data storyteller. It’s not perfect, but it’s honest, replicable, and mine.
-More to come. Thank you for reading 💙
